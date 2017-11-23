@@ -1,0 +1,236 @@
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Assets\pic (1).jpg
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\App.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\BlankPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\BottomBarItem.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\CardDetails.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\ColorPicker.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\DialogBox.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\DownloadIndicator.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\FTPPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\GeneralSettings.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\HelpPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\MainPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\MarqueeText.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\SettingsPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\SideBarMenuButton.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\VaultPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.xr.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.exe
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.pdb
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\resources.pri
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\AppxManifest.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.build.appxrecipe
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.dll
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\TagLib.Portable.dll
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WinRTXamlToolkit.dll
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.dll
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.pri
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.Controls.pri
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WinRTXamlToolkit.pri
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.pdb
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.csprojResolveAssemblyReference.cache
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.g.i.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.xaml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.xbf
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.exe
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.pdb
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.csproj.GenerateResource.Cache
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\priconfig.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\layout.resfiles
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\resources.resfiles
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\pri.resfiles
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\qualifiers.txt
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\Coding4Fun.Toolkit.pri.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\WinRTXamlToolkit.pri.xml
+C:\Users\Puli Bharatvaj\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Assets\pic (1).jpg
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\App.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\BlankPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\BottomBarItem.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\CardDetails.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\ColorPicker.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\DialogBox.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\DownloadIndicator.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\FTPPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\GeneralSettings.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\HelpPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\MainPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\MarqueeText.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\SettingsPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\SideBarMenuButton.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\VaultPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.xr.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\resources.pri
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\AppxManifest.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\File360.build.appxrecipe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\TagLib.Portable.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WinRTXamlToolkit.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.pri
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\Coding4Fun.Toolkit.Controls.pri
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WinRTXamlToolkit.pri
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\WriteableBitmapEx.WinRT.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\App.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BlankPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\BottomBarItem.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\CardDetails.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ColorPicker.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DialogBox.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\DownloadIndicator.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\FTPPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\GeneralSettings.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\HelpPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MainPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MarqueeText.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SettingsPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\SideBarMenuButton.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VaultPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\priconfig.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\layout.resfiles
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\resources.resfiles
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\pri.resfiles
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\qualifiers.txt
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\Coding4Fun.Toolkit.pri.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\WinRTXamlToolkit.pri.xml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VideoPage.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VideoPage.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VideoPage.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\VideoPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\VideoPage.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\bin\ARM\Release\MessageBox.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MessageBox.g.i.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MessageBox.g.cs
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MessageBox.xaml
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\MessageBox.xbf
+C:\Users\Home\Documents\Visual Studio 2013\Projects\Commercial\File360\File360\obj\ARM\Release\File360.csprojResolveAssemblyReference.cache

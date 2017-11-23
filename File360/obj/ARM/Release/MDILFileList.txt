@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\Coding4Fun.Toolkit.Controls.dll</file><file>\Coding4Fun.Toolkit.dll</file><file>\File360.exe</file><file>\SharpCompress.dll</file><file>\TagLib.Portable.dll</file><file>\WinRTXamlToolkit.dll</file><file>\WriteableBitmapEx.WinRT.dll</file></Files>

@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\file360\obj\arm\release\intermediatexaml\file360.exe" HashGuid="dc8cef50-fac5-699c-d1f4-39b45f6784f1" />
+    <ReferenceAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\packages\coding4fun.toolkit.controls.2.1.7\lib\wpa81\coding4fun.toolkit.controls.dll" HashGuid="8bbb9304-fede-39af-5ed4-00ee4e3fd140" />
+    <ReferenceAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\packages\coding4fun.toolkit.controls.2.1.7\lib\wpa81\coding4fun.toolkit.dll" HashGuid="119685b3-f018-829b-095c-510e7d2a3a28" />
+    <ReferenceAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\packages\taglib.portable.1.0.3\lib\portable-net45+win+wpa81+wp8+monoandroid10+xamarinios10+monotouch10\taglib.portable.dll" HashGuid="f321481e-254d-37cd-cdec-65538c8f8811" />
+    <ReferenceAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+    <ReferenceAssembly PathName="c:\users\home\documents\visual studio 2013\projects\commercial\file360\packages\writeablebitmapex.1.5.0.0\lib\wpa81\writeablebitmapex.winrt.dll" HashGuid="6dd9ab30-a8ea-e714-1c9c-a07c544a2da6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
